@@ -13,8 +13,8 @@ body {
 
         #juego {
             position: relative;
-            height: 300px;
-            width: 300px;
+            height: 600px;
+            width: 600px;
             display: flex;
             overflow: hidden;
             border: 1px dashed pink;
@@ -25,8 +25,8 @@ body {
 
         #conejita {
             position: absolute;
-            top: 50px;
-            left: 50px;
+            top: 90px;
+            left: 90px;
             background: none;
             border: none;
             cursor: pointer;
@@ -47,7 +47,7 @@ body {
             line-height: 1.2;
             border-radius: 10px;
             width: fit-content;
-            font-size: 20px;
+            font-size: 40px;
             text-align: center;
             color: rgb(9, 149, 204);
             max-width: 80%;
